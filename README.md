@@ -88,12 +88,23 @@ A visual task management dashboard designed to organize, prioritize, and track t
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvasavi123&show_icons=true&theme=default" alt="Vasavi's GitHub Stats" />
+  <!-- Note: The main public server for github-readme-stats is currently paused/down. 
+       To get standard stats cards back, you can easily self-host your own instance on Vercel for free.
+       In the meantime, these community endpoints are fully active and stable: -->
+  
+  <!-- GitHub Streak Stats (Active & Stable) -->
+  <a href="https://github.com/pvasavi123">
+    <img src="https://streak-stats.demolab.com/?user=pvasavi123&theme=default" alt="Vasavi's GitHub Streak" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvasavi123&layout=compact&theme=default" alt="Top Languages" />
+  
+  <!-- GitHub Profile Trophies (Active & Stable) -->
+  <a href="https://github.com/pvasavi123">
+    <img src="https://github-profile-trophy.vercel.app/?username=pvasavi123&theme=flat" alt="Vasavi's GitHub Trophies" />
+  </a>
 </div>
 
 ---
