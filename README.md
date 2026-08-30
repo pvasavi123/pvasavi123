@@ -1,8 +1,21 @@
-# Hi there, I'm Vasavi Varma 👋
+<div align="center">
+  <img src="banner.svg" alt="Vasavi Varma Profile Banner" width="100%" />
+</div>
 
-### 💻 Full Stack Developer | Java | Spring Boot | React | Django
+<br/>
 
-I'm a **Computer Science graduate** and Full Stack Developer passionate about building secure, practical, and user-friendly web and mobile applications. I enjoy working across the frontend, backend, databases, and APIs, and I'm continuously improving my development skills by building real-world projects.
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="25%">
+      <img src="avatar.svg" alt="Vasavi Varma Avatar" width="140" />
+    </td>
+    <td valign="middle" width="75%">
+      <h1>Hi there, I'm Vasavi Varma 👋</h1>
+      <h3>💻 Full Stack Developer | Java | Spring Boot | React | Django</h3>
+      <p>I'm a <b>Computer Science graduate</b> and Full Stack Developer passionate about building secure, practical, and user-friendly web and mobile applications. I enjoy working across the frontend, backend, databases, and APIs, and I'm continuously improving my development skills by building real-world projects.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
