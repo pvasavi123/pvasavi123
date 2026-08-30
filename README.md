@@ -101,9 +101,9 @@ A visual task management dashboard designed to organize, prioritize, and track t
   </a>
   <br/><br/>
   
-  <!-- GitHub Profile Trophies (Active & Stable) -->
+  <!-- GitHub Contribution Graph (Active & Stable) -->
   <a href="https://github.com/pvasavi123">
-    <img src="https://github-profile-trophy.vercel.app/?username=pvasavi123&theme=flat" alt="Vasavi's GitHub Trophies" />
+    <img src="https://ghchart.rshah.org/3b82f6/pvasavi123" alt="Vasavi's GitHub Contribution Grid" />
   </a>
 </div>
 
